@@ -24,7 +24,7 @@ Aplicação simula uma plataforma de estudos, que conecta professores e estudant
 EM CONSTRUÇÃO...
 
 
-<h2> Minhas funcionalidades (adicionadas):</h2>
+<h2> Funcionalidades adicionadas/melhoradas :trophy:</h2>
 
 1) Botão para excluir um schedule de horários disponíveis de forma dinâmica:
 
