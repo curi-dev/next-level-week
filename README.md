@@ -8,7 +8,7 @@ Projeto desenvolvido durante a semana de imersão com a Rockeseat.
 Aplicação simula uma plataforma de estudos, que conecta professores e estudantes .
 
 
-<h2> Conceitos treinados:</h2>
+<h2> Conceitos treinados :books:</h2>
 
 - Responsividade (medidas flexíveis)
 - Mobile First
