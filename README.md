@@ -2,7 +2,7 @@
 
 > Status: em desenvolvimento :warning:
 
-
+<br><br>
 
 <h2> Sobre a aplicação:</h2>
 
