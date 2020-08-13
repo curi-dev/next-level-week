@@ -5,8 +5,8 @@
 <h2> Sobre a aplicação:</h2>
 
 Projeto desenvolvido durante a semana de imersão com a Rockeseat. 
-Aplicação simula uma plataforma de estudos, que conecta professores e estudantes .
-<br>
+Aplicação simula uma plataforma de estudos, que conecta professores e estudantes.
+<br><br>
 <h2> Conceitos treinados :books:</h2>
 
 - Responsividade (medidas flexíveis)
