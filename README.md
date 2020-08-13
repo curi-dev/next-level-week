@@ -28,10 +28,11 @@ EM CONSTRUÇÃO...
 
 1) Botão para excluir um schedule de horários disponíveis de forma dinâmica:
 
-Aplicação possui um mecanismo onde professores adicionam campos dinamicamente (referente a mais um dia disponível com o respectivo horário) usando um pequeno botão (+ horário), porém não havia a possibilidade de exclui-lo dinamicamente. Caso houvesse um erro/desistência daquele dia e/ou horário o usuário mandaria o formulário com esses campos vazios. 
+Aplicação possui um mecanismo onde professores adicionam campos dinamicamente (referente a mais um dia disponível com o respectivo horário) usando um pequeno botão (+ horário), porém não havia a possibilidade de exclui-lo. Caso houvesse um erro/desistência daquele dia e/ou horário o usuário mandaria o formulário com esses campos vazios. 
   - Usando o escopo do this de button
   - Método closest
   - Comportamento do cloneNode
+  - ARQUIVOS RELACIONADOS: [addField.js, removeField.js]
 
 
 <h2> Design </h2>
