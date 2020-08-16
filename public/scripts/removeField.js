@@ -8,7 +8,4 @@ function removeField() {
 
     fieldset.removeChild(this.parentNode.closest('div'));
     
-    
-    
-
 }
