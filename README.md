@@ -1,6 +1,6 @@
 # next-level-week
 
-> Status: em desenvolvimento :warning:
+> Status: Finalizado :heavy_check_mark:
 
 <h2> Sobre a aplicação:</h2>
 
@@ -19,22 +19,14 @@ Aplicação simula uma plataforma de estudos, que conecta professores e estudant
 - Express :heavy_check_mark:
 
 
-<h2> Como rodar a aplicação </h2>
-
-EM CONSTRUÇÃO...
-
-
 <h2> Funcionalidades adicionadas/melhoradas :trophy:</h2>
 
 1) Botão para excluir um schedule de horários disponíveis de forma dinâmica:
 
-Aplicação possui um mecanismo onde professores adicionam campos dinamicamente (referente a mais um dia disponível com o respectivo horário) usando um pequeno botão (+ horário), porém não havia a possibilidade de exclui-lo. Caso houvesse um erro/desistência daquele dia e/ou horário o usuário mandaria o formulário com esses campos vazios. 
+A aplicação possui uma funcionalidade onde os professores podem adicionar campos dinamicamente (referente a um agendamento disponível com o respectivo horário) pressionando um botão (+ horário), porém não havia a possibilidade de exclui-lo. Caso houvesse uma desistência daquele dia o usuário teria que mandar o formulário com esses campos vazios. 
   - Usando o escopo do this de button
   - Método closest
   - Comportamento do cloneNode
   - ARQUIVOS RELACIONADOS: [addField.js, removeField.js]
 
 
-<h2> Design </h2>
-
-...
